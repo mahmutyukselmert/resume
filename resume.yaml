@@ -1,0 +1,65 @@
+#This is a my resume.
+name: Mahmut Yüksel
+surname: Mert
+birthdate: 1998-05-20
+title: Full-Stack Web Developer
+about: |
+    I’m Mahmut Yüksel Mert, a web developer living in Ankara, Türkiye.
+    I've worked with HTML5, CSS (Less, Sass), JavaScript (Vue.js, React.js), and various popular small JavaScript libraries. I've also developed using Bootstrap and TailwindCSS.
+    I primarily use PHP Laravel, CodeIgniter, and Symfony for development, along with Slim and Lumen for API applications and microservices.
+    I develop with Node.js. Some libraries I work with are on Adonis.js.
+    I'm developing WordPress plugins and themes.
+    
+    How can I summarize what I've done briefly?
+    
+    A plugin for WordPress that provides estimated prices to customers based on specifications of second-hand vehicles, and offers the option to schedule a vehicle inspection based on the price details. It communicates with an API to determine the prices.
+    Doktorbul.com is a platform similar to the MHRS system where patients can filter private doctors based on their specialties, affiliated hospitals, and patient reviews. It allows patients to ask questions to their doctors as well. An advanced CRM system for managing this platform.
+    A platform where customers can calculate shipping costs based on package dimensions and destination city/district. It filters the most suitable and cost-effective shipping company among all courier services based on the entered information. Additionally, it manages home pickup services according to location, handles the entire process from creating the shipment to tracking and delivery for all courier companies. I developed a CRM system to manage this system.
+education:
+  High School: 
+    İskilip Mesleki Ve Teknik Anadolu Lisesi: Elektrik
+  University:
+    Hitit Üniversitesi: Elektrik
+    AOF: Bilgisayar Programcılığı
+skills:
+  php:
+    framework:
+      - laravel
+      - codeigniter
+      - symfony
+      - slim
+      - lumen
+  html:
+  css:
+    - less
+    - sass
+    - bootrstrap
+    - foundation
+    - bulma
+    - tailwindcss
+  javascript:
+    - vue.js
+    - react.js
+    - angular
+    - jquery
+  sql:
+  wordpress:
+    - plugin development
+    - theme development
+  database:
+    - MySQL
+    - SQLite3
+    - PostgreSQL
+    - MongoDB
+    - firebase
+  node.js: 
+  python:
+  json:
+  xml:
+  yaml:
+  grav:
+  rest:
+  soap:
+  API:
+  phpMyAdmin:
+  Postman:
