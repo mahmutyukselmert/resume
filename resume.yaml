@@ -12,9 +12,14 @@ about: |
     
     How can I summarize what I've done briefly?
     
-    A plugin for WordPress that provides estimated prices to customers based on specifications of second-hand vehicles, and offers the option to schedule a vehicle inspection based on the price details. It communicates with an API to determine the prices.
-    Doktorbul.com is a platform similar to the MHRS system where patients can filter private doctors based on their specialties, affiliated hospitals, and patient reviews. It allows patients to ask questions to their doctors as well. An advanced CRM system for managing this platform.
-    A platform where customers can calculate shipping costs based on package dimensions and destination city/district. It filters the most suitable and cost-effective shipping company among all courier services based on the entered information. Additionally, it manages home pickup services according to location, handles the entire process from creating the shipment to tracking and delivery for all courier companies. I developed a CRM system to manage this system.
+    A plugin for WordPress that provides estimated prices to customers based on specifications of second-hand vehicles, and offers the option to schedule a vehicle inspection based on the price details. 
+    It communicates with an API to determine the prices.
+    Doktorbul.com is a platform similar to the MHRS system where patients can filter private doctors based on their specialties, affiliated hospitals, and patient reviews. 
+    It allows patients to ask questions to their doctors as well. An advanced CRM system for managing this platform.
+    A platform where customers can calculate shipping costs based on package dimensions and destination city/district. 
+    It filters the most suitable and cost-effective shipping company among all courier services based on the entered information. 
+    Additionally, it manages home pickup services according to location, handles the entire process from creating the shipment to tracking and delivery for all courier companies. 
+    I developed a CRM system to manage this system.
 education:
   High School: 
     İskilip Mesleki Ve Teknik Anadolu Lisesi: Elektrik
