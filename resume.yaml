@@ -22,33 +22,35 @@ about: |
     I developed a CRM system to manage this system.
 education:
   High School: 
-    İskilip Mesleki Ve Teknik Anadolu Lisesi: Elektrik
+    İskilip Mesleki Ve Teknik Anadolu Lisesi: Electric
   University:
-    Hitit Üniversitesi: Elektrik
-    AOF: Bilgisayar Programcılığı
+    Hitit Üniversity: Electric
+    Anadolu University: Computer Programing
 skills:
-  php:
+  PHP:
     framework:
       - laravel
       - codeigniter
       - symfony
       - slim
       - lumen
-  html:
-  css:
+  Html:
+  Css:
     - less
     - sass
     - bootrstrap
     - foundation
     - bulma
     - tailwindcss
-  javascript:
+  JavaScript:
     - vue.js
     - react.js
     - angular
     - jquery
-  sql:
-  wordpress:
+  SQL:
+  NoSQL:
+  WordPress:
+    - WooCommerce
     - plugin development
     - theme development
   database:
@@ -58,13 +60,18 @@ skills:
     - MongoDB
     - firebase
   node.js: 
+  TypeScript:
   python:
+  redis:
+  git:
+  oop:
   json:
   xml:
   yaml:
   grav:
+  API:
   rest:
   soap:
-  API:
   phpMyAdmin:
   Postman:
+  SEO:
