@@ -46,7 +46,6 @@ I'm Mahmut Yüksel Mert, I live in Ankara, Turkey. My expertise spans a wide ran
   - MongoDB
   - Firebase
 - **Node.js**
-- node.js: 
 - TypeScript:
 - python:
 - redis:
