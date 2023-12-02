@@ -13,8 +13,8 @@ I'm Mahmut Yüksel Mert, I live in Ankara, Turkey. My expertise spans a wide ran
 ### Education
 - **High School:** İskilip Mesleki Ve Teknik Anadolu Lisesi - Elektrik
 - **University:** 
-  - Hitit Üniversitesi - Elektrik
-  - AOF - Bilgisayar Programcılığı
+  - Hitit Üniversitesi - Electric
+  - Anadolu Üniversitesi - Computer Programming
 
 ### Skills
 - **PHP:**
