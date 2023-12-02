@@ -36,6 +36,7 @@ I'm Mahmut Yüksel Mert, I live in Ankara, Turkey. My expertise spans a wide ran
   - Angular
   - jQuery
 - **WordPress:**
+  - WooCoommerce
   - Plugin development
   - Theme development
 - **Database:**
@@ -45,5 +46,21 @@ I'm Mahmut Yüksel Mert, I live in Ankara, Turkey. My expertise spans a wide ran
   - MongoDB
   - Firebase
 - **Node.js**
+- node.js: 
+- TypeScript:
+- python:
+- redis:
+- git:
+- oop:
+- json:
+- xml:
+- yaml:
+- grav:
+- API:
+- rest:
+- soap:
+- phpMyAdmin:
+- Postman:
+- SEO:
 
 Feel free to contact me via [mahmutyukselmert@gmail.com](mailto:mahmutyukselmert@gmail.com) or [LinkedIn](https://www.linkedin.com/in/mahmutyukselmert/).
